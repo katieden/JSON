@@ -1,1 +1,13 @@
-
+{
+  "title": "Authorization page - errors in the console when clicking on Login button",
+  "steps_to_reproduce": {
+    "step_1": "Open url",
+    "step_2": "Enter login and password",
+    "step_3": "Click on Login"
+  },
+  "expected_result": "User authorized",
+  "actual_result": "Erorrs in console",
+  "enviroment": "chrome",
+  "severity": "Blocker",
+  "attachment": "erorrs.png"
+}
